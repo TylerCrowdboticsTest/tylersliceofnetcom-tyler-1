@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT tylersliceofnetcom_tyler_1.wsgi:application
